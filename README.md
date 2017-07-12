@@ -1,6 +1,6 @@
 # magicka_leap_plugin
 Magicka's Leap Motion plugin
 
-Location:
+Copy and paste the files
 
-C:\Program Files\Epic Games\UE_4.14\Engine\Plugins\Runtime\LeapMotion
+Location: C:\Program Files\Epic Games\UE_4.14\Engine\Plugins\Runtime\LeapMotion
